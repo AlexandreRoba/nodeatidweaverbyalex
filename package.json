@@ -1,0 +1,23 @@
+{
+  "name": "nodeatidweaverbyalex",
+  "version": "0.0.1",
+  "description": "Node at Idweaver By Alex",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandreRoba/nodeatidweaverbyalex.git"
+  },
+  "author": "Alexandre Roba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandreRoba/nodeatidweaverbyalex/issues"
+  },
+  "homepage": "https://github.com/AlexandreRoba/nodeatidweaverbyalex#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
