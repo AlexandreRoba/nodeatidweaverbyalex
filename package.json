@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/AlexandreRoba/nodeatidweaverbyalex#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",

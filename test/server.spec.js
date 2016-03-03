@@ -20,10 +20,4 @@ describe("When I start my server", function(){
             .end(done);     
     });
     
-    it("should return Node at IdWeaver by Alex", function(done){
-        request
-            .get("/")
-            .expect("Node at Idweaver by Alex")
-            .end(done);     
-    });
 });
